@@ -229,6 +229,10 @@ section {
     color: #777;
 }
 
+.contact input[type="submit"] {
+    margin: auto;
+}
+
 /* Main footer styles */
 
 .main-footer {
