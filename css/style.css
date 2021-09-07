@@ -98,7 +98,7 @@ section {
     display: none;
 }
 
-.main-menu label [for="drop-nav"] {
+.main-menu label[for="drop-nav"] {
     display: none;
 }
 
@@ -280,12 +280,12 @@ section {
         max-width: 200px;
     }
 
-    .contact input [type="text"],
-    .contact input [type="email"] {
+    .contact input[type="text"],
+    .contact input[type="email"] {
         flex-basis: 100%
     }
 
-    label [for="drop-nav"] {
+    label[for="drop-nav"] {
         display: block;
         padding: 14px 20px;
         color: #fff;
